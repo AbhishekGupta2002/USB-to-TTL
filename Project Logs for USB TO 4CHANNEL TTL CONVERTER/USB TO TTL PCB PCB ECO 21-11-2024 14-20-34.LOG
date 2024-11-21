@@ -1,0 +1,33 @@
+Added Component: Designator=B1(QFP50P900X900X120-48N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "XR21V1414IM48-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/xr21v1414im48-f/maxlinear-inc?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.maxlinear.com/document?id=1416"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MaxLinear, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XR21V1414IM48-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "701-XR21V1414IM48-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/MaxLinear/XR21V1414IM48-F?qs=ffYlDyDpdDVv7svdbXLjeg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=+3V3 Pin=B1-5
+Added Pin To Net: NetName=NetB1_8 Pin=B1-8
+Added Pin To Net: NetName=NetB1_9 Pin=B1-9
+Added Pin To Net: NetName=+3V3 Pin=B1-18
+Added Pin To Net: NetName=GND Pin=B1-19
+Added Pin To Net: NetName=NetB1_22 Pin=B1-22
+Added Pin To Net: NetName=NetB1_23 Pin=B1-23
+Added Pin To Net: NetName=NetB1_30 Pin=B1-30
+Added Pin To Net: NetName=NetB1_31 Pin=B1-31
+Added Pin To Net: NetName=GND Pin=B1-32
+Added Pin To Net: NetName=+3V3 Pin=B1-33
+Added Pin To Net: NetName=SDA Pin=B1-35
+Added Pin To Net: NetName=SCL Pin=B1-36
+Added Pin To Net: NetName=NetB1_38 Pin=B1-38
+Added Pin To Net: NetName=NetB1_39 Pin=B1-39
+Added Pin To Net: NetName=GND Pin=B1-40
+Added Pin To Net: NetName=GND Pin=B1-41
+Added Pin To Net: NetName=USB_D_N Pin=B1-42
+Added Pin To Net: NetName=USB_D_P Pin=B1-43
+Added Pin To Net: NetName=+3V3 Pin=B1-44
+Added Pin To Net: NetName=+3V3 Pin=B1-45
+Added Member To Class: ClassName=MAXLINEAR USB TO 4 CHANNEL TTL CONVERTER Member=Component B1 XR21V1414IM48TR-F
