@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCCB_BANK2 Pin=J3-1
+Removed Pin From Net: NetName=VCCB_BANK1 Pin=J5-1
+Added Pin To Net: NetName=VCCB_BANK1 Pin=J3-1
+Added Pin To Net: NetName=VCCB_BANK2 Pin=J5-1
+Added Member To Class: ClassName=MAXLINEAR USB TO 4 CHANNEL TTL CONVERTER Member=Component J3 S4B-XH-A-1
